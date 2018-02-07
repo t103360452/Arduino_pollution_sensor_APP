@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">空氣品質偵測</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_led_control">control</string>
+    <string name="pm2_5_24_35_g_m3_15_g_m3">根據聯合國的標準，PM2.5每天24小時平均濃度最高不能超過35μg/m3，全年每日平均濃度不能超過15μg/m3。</string>
+    <string name="_35_g_m3">若超過35μg/m3對，將對敏感體質者如：老人、小孩、有心肺和血管疾病、或呼吸系統疾病的人有害。</string>
+    <string name="_65_g_m3">若超過65μg/m3，對全數國民的健康都會造成傷害。</string>
+    <string name="ko">返回</string>
+    <string name="todo">TODO</string>
+</resources>

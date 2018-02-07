@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pollute">#12abef</color>
+    <color name="red">#ff4a40</color>
+    <color name="green">#40ff53</color>
+    <color name="blue">#404dff</color>
+</resources>
